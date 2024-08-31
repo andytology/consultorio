@@ -1,0 +1,87 @@
+/* Estilos adicionales */
+
+/* Cambiar el color de fondo del encabezado a un tono de azul más oscuro */
+.header {
+    background-color: #004080;
+    color: #fff;
+}
+
+/* Cambiar el color de fondo de la navegación a un tono de azul medio */
+.navbar {
+    background-color: #0066cc;
+}
+
+/* Cambiar el color de los enlaces de navegación a un tono de azul claro */
+.navbar a {
+    color: #99ccff;
+}
+
+/* Cambiar el color de fondo del contenido principal a un tono de azul claro */
+.main-content {
+    background-color: #b3d9ff;
+    color: #333;
+}
+
+/* Cambiar el color de fondo del pie de página a un tono de azul más claro */
+.footer {
+    background-color: #cce6ff;
+    color: #333;
+}
+
+/* Estilos adicionales para el consultorio dental */
+
+/* Cambiar el tamaño y el estilo de fuente del encabezado */
+.header h1 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+/* Cambiar el tamaño y el estilo de fuente de los enlaces de navegación */
+.navbar a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Cambiar el tamaño y el estilo de fuente del contenido principal */
+.main-content p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Cambiar el tamaño y el estilo de fuente del pie de página */
+.footer p {
+    font-size: 14px;
+    font-style: italic;
+}
+
+/* Agregar un borde alrededor del contenido principal */
+.main-content {
+    border: 1px solid #99ccff;
+    padding: 20px;
+}
+
+/* Agregar un margen inferior al pie de página */
+.footer {
+    margin-bottom: 20px;
+}
+
+/* Cambiar el color de fondo de los botones */
+.button {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* Cambiar el color de fondo de los botones al pasar el cursor sobre ellos */
+.button:hover {
+    background-color: #004080;
+}
+
+/* Cambiar el color de fondo de los botones al hacer clic en ellos */
+.button:active {
+    background-color: #00264d;
+}
